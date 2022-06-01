@@ -1,0 +1,9 @@
+{
+    "postgre": {
+      "host": "49.50.167.136",
+      "port": 5432,
+      "database": "synthea_1000",
+      "user": "walker106",
+      "password": "forcebewithyou"
+    }
+  }
